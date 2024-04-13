@@ -18,3 +18,4 @@ AFTER SAVE THIS BAT FILE
 Press Windows Key + R to open the Run dialog.
 Type shell:startup into the Run dialog.
 Press Enter or click OK.
+Thanks for Watching 🤗
